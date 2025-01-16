@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/buttonExercises">/home/hootbu/buttonExercises/build/Desktop_Qt_6_7_2-Debug/buttonExercises</file>
+
+  </qresource>
+</RCC>
