@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qmlBasics">/home/hootbu/qmlBasics/build/Desktop_Qt_6_7_2-Debug/qmlBasics</file>
+
+  </qresource>
+</RCC>
